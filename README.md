@@ -16,7 +16,7 @@
  underused government rebate programs. By simplifying access to verified data about incentives,
  the system can encourage more Victorians to adopt renewable energy technologies, reducing
  energy grid dependency, cutting household electricity costs, and contributing to Australia’s net-zero
- emission goals by 2050. The project not only benefits citizens but also supports local clean
+ carbon emissions goals by 2050. The project not only benefits citizens but also supports local clean
  energy industries by stimulating market demand.
  
  Ethical and privacy principles guided every phase of development. The team ensured that
