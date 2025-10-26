@@ -1,0 +1,11 @@
+langchain>=0.3
+langchain-community>=0.3
+langchain-openai>=0.3
+langchain-text-splitters
+pydantic>=2
+tiktoken
+sentence-transformers
+chromadb
+faiss-cpu
+duckduckgo-search
+python-dotenv
