@@ -15,7 +15,7 @@
  The impact of EcoWatt AI lies in its potential to increase awareness and utilisation of
  underused government rebate programs. By simplifying access to verified data about incentives,
  the system can encourage more Victorians to adopt renewable energy technologies, reducing
- grid dependency, cutting household electricity costs, and contributing to Australia’s net-zero
+ energy grid dependency, cutting household electricity costs, and contributing to Australia’s net-zero
  emission goals by 2050. The project not only benefits citizens but also supports local clean
  energy industries by stimulating market demand.
  
