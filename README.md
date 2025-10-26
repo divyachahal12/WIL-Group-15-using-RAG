@@ -23,3 +23,20 @@
  only verified sources were indexed, user data was never stored, and all system outputs remained
  transparent and reproducible. Safety mechanisms were included to prevent hallucinations, mis
 representation, and the use of untrusted content.
+
+From a project management perspective, the team followed a structured yet lightweight Agile
+ workflow using tools such as Trello for task tracking, GitHub for version control, Overleaf for
+ documentation, and Microsoft Teams for weekly meetings. Each member had clearly defined
+ roles, and contributions were tracked through commits, meeting notes, and progress updates to
+ ensure accountability and collaboration.
+ 
+ Looking forward, our team has outlined several actionable next steps, including expanding
+ the annotated question bank, scaling human evaluations, enhancing UI accessibility, and con
+ducting user testing across a diverse demographic. Further improvements will involve corpus
+ expansion, policy alignment, and potential partnerships with industry bodies like the Clean
+ Energy Council to ensure scalability and long-term adoption.
+ 
+ In summary, EcoWatt AI represents a practical and socially beneficial application of data
+ science and AI. Through our collaborative effort, we demonstrated how technology can drive sus
+tainable behaviour, empower households with accurate knowledge, and contribute meaningfully
+ to Victoria’s renewable energy transformation
